@@ -19,6 +19,17 @@ Hermes is a scraper for [Nation Media](http://www.nation.co.ke), one of Kenya's 
 - Understanding of python
 - Programming knowledge, duh!
 
+
+#### Running the scraper.
+
+Before you run the scrapper, you will need to modify a few settings. At the moment, the app is saving the scraped data to a MongoDB instance. You will need to provide connection details. These three variables can be initialised in the 'settings.py' file. 
+
+- **MONGODB_SERVER**   address to your mongoDB instance
+- **MONGODB_PORT**  port for the server
+- **MONGODB_DB**   the database to use
+- **MONGODB_COLLECTION**  the collection to use, a new one will be created if it does not exist.
+
+
 ***I'll complete this document when i get time***
 
 ****1 year later, I guess I never got any time****
