@@ -20,3 +20,5 @@ Hermes is a scraper for [Nation Media](nation.co.ke), one of Kenya's top news si
 - Programming knowledge, duh!
 
 ***I'll complete this document when i get time***
+
+****1 year later, I guess I never got any time****
